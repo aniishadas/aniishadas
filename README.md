@@ -6,7 +6,7 @@ An aspiring software developer with a passion for creating tech that makes a dif
 
 - 🎓 Currently pursuing my Master's in Computer Engineering at Arizona State University, set to graduate soon in May 2024
 - ⚡ Ex-Software Developer Intern at Tesla, where I worked on vital enhancements to high value payment systems at Tesla including scaling critical payments APIs, consolidating access control mechanisms, standardizing heterogeneous datasets, and refactoring core instructions architecture - elevating reliability, security, performance and analytical capabilities impacting millions in transactions for the competitive fintech vertical.  
-- 💼 Former Associate Developer at PwC with 2 years of experience building web apps and customer portsls for large FinTech clients. Successfully launched a web portal for a student loan provider, handled analytics tracking, performance management, dynamic advertisement management, and integrated service calls with external backend systems.
+- 💼 Former Associate Developer at PwC with 2 years of experience building web apps and customer portals for large FinTech clients. Successfully launched a web portal for a student loan provider, handled analytics tracking, performance management, dynamic advertisement management, and integrated service calls with external backend systems.
 - 👩🏽‍💻 Actively developing side projects in Python, Java, and JavaScript
 
 I love learning all facets of development, including:  
