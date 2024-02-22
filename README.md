@@ -31,6 +31,6 @@ I'm seeking full-time software engineering opportunities, especially those worki
 
 If you know of any open roles suitable for me, would like to chat, or want my resume - please feel free to contact me!  
 
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:adas97@asu.edu)  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anishadas18/)  [![Resume](https://anishadas-resume-2024.tiiny.site)  
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:adas97@asu.edu)  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/anishadas18/)  [![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://anishadas-resume-2024.tiiny.site)  
 
 Let me know what you think! I'm always striving to improve 🚀
